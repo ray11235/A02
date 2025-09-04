@@ -11,19 +11,19 @@ Follow these steps to get started with **Git** and **GitHub**. We'll use WebStor
 2. Install and configure with `git config --global user.name "Your Name"`.
 
 ### Step 2: Create a GitHub Repository
-1. Log in to **GitHub** at https://github.com.
-2. Create a new **repository** named A02.
+1. Log in to GitHub at https://github.com.
+2. Create a new repository named A02.
 
 ### Step 3: Clone the Repository
-Use `git **clone** https://github.com/yourUCID/A02.git` or WebStorm's VCS menu to **clone** the **remote** **repository**.
+Use `git clone https://github.com/yourUCID/A02.git` or WebStorm's VCS menu to clone the remote repository.
 
 ### Step 4: Make Changes and Commit
 1. Edit files.
 2. Stage with `git add .`.
-3. **Commit** with `git **commit** -m "Message"`.
+3. **Commit** with `git commit -m "Message"`.
 
 ### Step 5: Push Changes
-Use `git **push** origin main` to upload to the **remote**.
+Use `git push origin main` to upload to the remote.
 
 ### Step 6: Work with Branches
 Create a **branch** with `git checkout -b new-branch`, make changes, then **merge** back with `git **merge** new-branch`.
