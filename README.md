@@ -1,6 +1,6 @@
 # Git and GitHub Tutorial
 
-This repository (A02) contains a step-by-step tutorial on how to use **Git** and **GitHub**. The tutorial is designed for beginners and explains the process of version control using **Git**, collaborating via **GitHub**, and integrating with an IDE like WebStorm.
+This repository (A02) contains a step-by-step tutorial on how to use **Git** and **GitHub**. The tutorial is designed for beginners and explains the process of version control using **Git**, collaborating via **GitHub**, and integrating with an IDE like WebStorm. Also I've made a few READMEs before, so this one might be one of the good ones.
 
 ## Tutorial: How to Use Git and GitHub
 
