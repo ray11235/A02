@@ -1,13 +1,13 @@
 # Git and GitHub Tutorial
 
-This repository (A02) contains a step-by-step tutorial on how to use **Git** and **GitHub**. The tutorial is designed for beginners and explains the process of version control using **Git**, collaborating via **GitHub**, and integrating with an IDE like WebStorm. Also I've made a few READMEs before, so this one might be one of the good ones.
+This repository (A02) contains a step-by-step tutorial on how to use Git and GitHub. The tutorial is designed for beginners and explains the process of version control using Git, collaborating via GitHub, and integrating with an IDE like WebStorm. Also I've made a few READMEs before, so this one might be one of the good ones.
 
 ## Tutorial: How to Use Git and GitHub
 
-Follow these steps to get started with **Git** and **GitHub**. We'll use WebStorm for examples.
+Follow these steps to get started with Git and GitHub. We'll use WebStorm for examples.
 
 ### Step 1: Install Git
-1. Download **Git** from https://git-scm.com/downloads.
+1. Download Git from https://git-scm.com/downloads.
 2. Install and configure with `git config --global user.name "Your Name"`.
 
 ### Step 2: Create a GitHub Repository
@@ -20,18 +20,18 @@ Use `git clone https://github.com/yourUCID/A02.git` or WebStorm's VCS menu to cl
 ### Step 4: Make Changes and Commit
 1. Edit files.
 2. Stage with `git add .`.
-3. **Commit** with `git commit -m "Message"`.
+3. Commit with `git commit -m "Message"`.
 
 ### Step 5: Push Changes
 Use `git push origin main` to upload to the remote.
 
 ### Step 6: Work with Branches
-Create a **branch** with `git checkout -b new-branch`, make changes, then **merge** back with `git **merge** new-branch`.
+Create a branch with `git checkout -b new-branch`, make changes, then merge back with `git **merge** new-branch`.
 
 ### Step 7: Pull Updates
-Use `git **pull**` to **fetch** and **merge** from the **remote**. Resolve any **merge conflict** manually.
+Use `git **pull**` to fetch and merge from the remote. Resolve any merge conflict manually.
 
-Always use clear **commit** messages like:
+Always use clear commit messages like:
 - Task: Create Repository
 - Feature: added workflow for using github
 - Fix: changed readme.md for definition of terms
@@ -40,7 +40,7 @@ Always use clear **commit** messages like:
 
 1. Download WebStorm from https://www.jetbrains.com/webstorm/download/.
 2. Install and launch.
-3. Configure **Git** in Settings > Version Control > Git.
+3. Configure Git in Settings > Version Control > Git.
 4. Clone a repo via VCS > Get from Version Control.
 5. Commit via VCS > Commit.
 6. Push/Pull via VCS > Git > Push/Pull.
